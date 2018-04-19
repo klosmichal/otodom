@@ -6,3 +6,4 @@ Project consists of:
 -data preprocesing  
 -creating model using Linear Regression, Random Forest, Support Vector Regression and Gradient Boosting
 
+Direct Link to scrapped data file: https://1drv.ms/u/s!Av9aCtgAnCIWtEvuzwwJADBHiKJo
